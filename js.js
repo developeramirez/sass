@@ -32,7 +32,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $('#pagepiling').pagepiling({
         anchors: ['primeraSeccion', 'segundaSeccion'],
-        sectionsColor: ['#f2f2f2', '#2b7b83'],
+        sectionsColor: ['#f2f2f2', '#ddd'],
         menu: '#menu',
         scrollingspeed: 300,
         vertialCentered: true,
